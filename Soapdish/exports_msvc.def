@@ -1,0 +1,8 @@
+EXPORTS
+DirectInputCreateA=_Real_DirectInputCreateA@16
+DirectInputCreateW=_Real_DirectInputCreateW@16
+DirectInputCreateEx=_Real_DirectInputCreateEx@20
+DllCanUnloadNow=_Real_DllCanUnloadNow@0 PRIVATE
+DllGetClassObject=_Real_DllGetClassObject@12 PRIVATE
+DllRegisterServer=_Real_DllRegisterServer@0 PRIVATE
+DllUnregisterServer=_Real_DllUnregisterServer@0 PRIVATE
